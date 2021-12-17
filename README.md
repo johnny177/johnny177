@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @johnny177
 - 👀 I’m interested in music, programming, gaming and movies
-- 🌱 I’m currently learning machine learning and AI, and economics as a university course
+- 🌱 I’m currently learning machine learning and AI.
+- 👌I have skills in android and ios development
+- 😇 I have a degree in Economics and Mathematics
 - 💞️ I’m looking to collaborate on android application using android studio
 - 📫 How to reach me johnametepeagboku@live.com|| +233 551522177
 
